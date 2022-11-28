@@ -4507,7 +4507,7 @@ jpegThumbnail:log0,
 caption: `
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
-◎ Owner : © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑
+◎ Owner : BlackMail
 
 [ 🇲🇨 Ini adalah Bot Pribadi Tekan Link Di Bawah Untuk Bergabung ]`,
 footer: haikal.user.name,
@@ -4521,20 +4521,20 @@ break*/
 case 'menu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-◎ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑
+◎ *BLACKMAIL*
 ◎ 𝐋𝐢𝐛 : 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞
 ◎ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝟏𝟎
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-╭━━❍𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑❍━━╮
+╭━━╼⃟݊⃟̥⃝̇݊݊⃟  𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋️ ╼⃟݊⃟̥⃝̇݊݊⃟  ━━╮
 ┃╭━━━━━━━━━━━━━━━━╾•
 ┃┃   ❍ 𝙈𝙀𝙉𝙐 𝘽𝙐𝙂 ❍
 ┃╰━━━━━━━━━━━━━━━━╾•
 ┃ ┃ ╭┈────────────╮
 ┃ ┃│⃟•╾ 𝐁𝐮𝐠𝐦𝐞𝐧𝐮➢
 ┃ ┃ ╰┈────────────╯
-╰━━╼⃟݊⃟̥⃝̇݊݊⃟ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ݊⃟̥⃝̇݊⃟╾━━╯
+╰━━╼⃟݊⃟̥⃝̇݊݊⃟  𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ️ ݊⃟̥⃝̇݊⃟╾━━╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-╭━━❍𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑❍━━╮
+╭━━❍ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋❍━━╮
 ┃ ╭━━━━━━━━━━━━━━━━╮
 ┃ ┃ ╭┈────────────╮
 ┃ ┃ │ ❍ 𝑴𝑬𝑵𝑼_𝑨𝑼𝑻𝑶 ❍
@@ -4546,7 +4546,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┃│⃟•╾ 𝐀𝐮𝐭𝐨𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 / 𝐨𝐟𝐟
 ┃│⃟•╾ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 / 𝐨𝐟𝐟 [ Crash ]
 ┃╰━━━━━━━━━━━━━━━╯
-┣━━━╼⃟݊⃟̥⃝̇݊݊⃟𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ݊⃟̥⃝̇݊⃟╾━━━•
+┣━━━╼⃟݊⃟̥⃝̇݊݊⃟  𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋️  ݊⃟̥⃝̇݊⃟╾━━━•
 ┃╭━━━━━━━━━━━━━━━━╾•
 ┃┃   ❍ 𝑴𝑬𝑵𝑼 𝙈𝙊𝘿𝙎 ❍
 ┃╰━━━━━━━━━━━━━━━━╾•
@@ -4567,9 +4567,9 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┃│⃟•╾ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐦𝐞𝐧𝐮➢
 ┃│⃟•╾ 𝐎𝐰𝐧𝐞𝐫𝐦𝐞𝐧𝐮➢
 ┃╰━━━━━━━━━━━━━━━╯
-╰━━━╼⃟݊⃟̥⃝̇݊݊⃟ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ݊⃟̥⃝̇݊⃟╾━━━╯
+╰━━━╼⃟݊⃟̥⃝̇݊݊⃟  𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋  ݊⃟̥⃝̇݊⃟╾━━━╯
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-© 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`, contextInfo:{"externalAdReply": {"title": `SC 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+BLACKMAIL`, contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -4585,7 +4585,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 
 ◎ 𝐎𝐰𝐧𝐞𝐫 : ${botname}
 ◎ 𝐋𝐢𝐛 : 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞
-◎ 𝐓𝐞𝐫𝐛𝐢𝐭 : *𝟎𝟏-𝟎𝟗-𝟏𝟗𝟗𝟗*
+◎ 𝐓𝐞𝐫𝐛𝐢𝐭 : -
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ^𝐁𝐔𝐆 𝐁𝐎𝐓 𝐕𝐈𝐏^
 ^𝐁𝐘 : ${botname}^
@@ -4611,7 +4611,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐬𝐰 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐛𝐨𝐤𝐞𝐩 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝐛𝐮𝐭𝐭𝐨𝐧 [𝐌𝐚𝐬𝐮𝐤𝐚𝐧 𝐭𝐞𝐱𝐭 𝐧𝐲𝐚]
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ╔════[ 𝐕𝐈𝐏 ]═══════⊱
 ╠➤🗿 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤🌷 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
@@ -4682,7 +4682,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐨𝐤𝐞𝐦𝐞𝐱 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐚𝐡𝐲𝐚𝐧𝐠𝐛𝐞𝐭𝐮𝐥 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐚𝐦𝐩𝐮𝐧𝐬𝐮𝐡𝐮 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔════[ 𝐁𝐔𝐆 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 ]══════⊱
@@ -4691,7 +4691,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐳𝐞𝐧𝐣𝐚𝐠𝐨𝐚𝐧 [ 𝐫𝐞𝐩𝐥𝐲 𝐭𝐚𝐫𝐠𝐞𝐭 ]
 ╠➤𝐳𝐞𝐧𝐬𝐚𝐧𝐠𝐞 [ 𝐇𝐚𝐫𝐮𝐬 𝐌𝐞𝐧𝐣𝐚𝐝𝐢 𝐀𝐝𝐦𝐢𝐧 ]
 ╠➤𝐛𝐮𝐠𝐭𝐢𝐤𝐭𝐨𝐤 [ 𝐋𝐢𝐧𝐤 ] - 𝐁𝐮𝐠 𝐒𝐰
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐓𝐀𝐑𝐆𝐄𝐓 ]══════⊱
@@ -4700,7 +4700,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐳𝐞𝐧𝐬𝐤𝐮𝐲 𝟔𝟐𝟖𝐱𝐱𝐱
 ╠➤𝐳𝐞𝐧𝐬𝐚𝐧𝐭𝐞𝐭 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐩𝐜 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 𝐊𝐞𝐭𝐢𝐤 > 𝐦.𝐜𝐡𝐚𝐭 ( 𝐝𝐢 𝐠𝐫𝐨𝐮𝐩 𝐝𝐮𝐥𝐮🌷)
@@ -4708,7 +4708,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐠𝐚𝐬𝐳𝐞𝐧 𝟏𝟏𝟐𝟔𝟕𝟒𝟒𝟒𝟖𝐱𝐱𝐱
 ╠➤𝐳𝐞𝐧𝐬𝐚𝐧𝐭𝐞𝐭𝐠𝐜  𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐠𝐜 𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐕𝐈𝐑𝐓𝐄𝐗𝐓 ]══════⊱
@@ -4742,7 +4742,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟏𝟖 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟏𝟗 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐜𝐫𝐚𝐬𝐡𝐚𝐫𝟐𝟎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐒𝐏𝐀𝐌 ]══════⊱
@@ -4850,7 +4850,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐳𝐱𝐧𝟏𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐳𝐱𝐧𝟏𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐬𝐩𝐚𝐦 [ 𝐑𝐞𝐩𝐥𝐲 𝐏𝐞𝐬𝐚𝐧 ]
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐉𝐀𝐃𝐈 𝐁𝐔𝐆 ]══════⊱
@@ -4859,7 +4859,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟑 [ 𝐑𝐞𝐩𝐥𝐲 𝐀𝐮𝐝𝐢𝐨 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐕𝐧 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟒 [ 𝐑𝐞𝐩𝐥𝐲 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐆𝐚𝐦𝐛𝐚𝐫 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟓 [ 𝐑𝐞𝐩𝐥𝐲 𝐆𝐚𝐦𝐛𝐚𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐎𝐧𝐜𝐞 ] 
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑]══════⊱
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 ]══════⊱
@@ -4867,8 +4867,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐯𝐢𝐝𝐞𝐨 [ 𝐁𝐮𝐠 𝐕𝐢𝐝𝐞𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜 𝐚𝐮𝐝𝐢𝐨 [ 𝐁𝐮𝐠 𝐀𝐮𝐝𝐢𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐭𝐞𝐱𝐭 [ 𝐁𝐮𝐠 𝐓𝐞𝐱𝐭 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
-╚════[ 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -4887,20 +4887,20 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 -
+"description": ` - 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 - `
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
 
-SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
+SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIH LANJUT ✌️`,
 "currencyCode": "IDR",
 "footerText": ` `,
 "priceAmount1000": "10000000",
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 WE ARE NOT MASTOD`,
+"retailerId": `© © 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 WE ARE NOT MASTOD`,
 "url": "Wa.me/6289514100332"
 },
 "businessOwnerJid": "6289514100332@s.whatsapp.net",
@@ -4926,8 +4926,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤cantik
 ╠➤kesel
 ╠➤ngeselin
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -4962,7 +4962,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤heleh
 ╠➤holoh
 ╠➤delttt]
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -5007,7 +5007,7 @@ nomorhoki
 ╠➤masasubur
 ╠➤zodiak
 ╠➤shio
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -5026,7 +5026,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤alquran
 ╠➤juzamma
 ╠➤tafsirsurah
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -5056,8 +5056,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤antara-news
 ╠➤cnn-news
 ╠➤fajar-news
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱ `,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱ `,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5094,8 +5094,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤getpic
 ╠➤penjara
 ╠➤intro
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5120,8 +5120,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤robot
 ╠➤slow
 ╠➤tupai
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5136,7 +5136,7 @@ if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
  *[ 🌷 ] Asupan Mata* 
 bokep`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5156,8 +5156,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤wikimedia [query]
 ╠➤ringtone [query]
 ╠➤searchgroups [query]
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5189,8 +5189,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤styletext
 ╠➤smeme
 ╠➤ss [url]
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5208,8 +5208,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listcmd
 ╠➤delcmd
 ╠➤lockcmd
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5225,7 +5225,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 *[ 🌷 ] Download Menu* 
 pinterestdl [url]
 mediafire [url]`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5259,8 +5259,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listgc
 ╠➤listonline
 ╠➤speedtest
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC © 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5297,8 +5297,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤darkjoke
 ╠➤meme
 ╠➤meme2
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
@@ -5474,8 +5474,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤zensound159
 ╠➤zensound160
 ╠➤zensound161
-╚════[ © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `SC © 𝚭𝐗𝚴𝐌𝐀𝐊𝐄𝐑`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `SC 𝐁𝐋𝐀𝐂𝐊𝐌𝐀𝐈𝐋`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,

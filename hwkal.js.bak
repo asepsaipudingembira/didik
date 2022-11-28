@@ -26,16 +26,16 @@ global.ig = 'https://instagram.com/thezhyx7?igshid=YmMyMTA2M2Y=' // ubah aja
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'BlackMail' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'BlackMail' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'BlackMail' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Zxn Modsネ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zxn Modsネ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Zxn Modsネ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285730955221'] // ubah aja pake nomor lu
-global.premium = ['6285730955221'] // ubah aja pake nomor lu
-global.packname = 'BlackMail' // ubah aja
-global.ownerr = ['BlackMail'] // ubaha aja
-global.author = 'BlackMail' //ubah aja
+global.owner = ['6285693062318'] // ubah aja pake nomor lu
+global.premium = ['6285693062318'] // ubah aja pake nomor lu
+global.packname = 'Zxn MODSネ' // ubah aja
+global.ownerr = ['Zxn Modsネ'] // ubaha aja
+global.author = 'Zxn Modsネ' //ubah aja
 global.sessionName = 'haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
